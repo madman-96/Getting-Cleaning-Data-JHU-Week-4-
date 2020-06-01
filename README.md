@@ -4,7 +4,7 @@ This repository contains 4 files, which are:
 
 README.md : The general information about the repository.
 
-codeBook.md: The file that describes the variables, the data, and any transformations or work that I performed to clean up the data.
+Code Book.md: The file that describes the variables, the data, and any transformations or work that I performed to clean up the data.
 
 run_analysis.R: performs the data preparation and the 5 step to create a tidy data that can be used for later analysis. This script runs the following:
  
